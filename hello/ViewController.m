@@ -50,7 +50,7 @@
 }
 
 - (IBAction)doClick3{
-    NSString *msg = @"3333";
+    NSString *msg = @"3333--222";
     [self alert:msg];
 }
 
